@@ -12,6 +12,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         main: "var(--main)",
+        onyx: "var(--onyx)"
       },
     },
   },
